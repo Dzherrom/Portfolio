@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peso en marte</title>
+</head>
+<body>
+    <h1>Tu peso en otro planeta</h1>
+    <p>Tu peso en la tierra es diferente a tu peso en otros planetas</p>
+    <p>debido a la diferencia de gravedad entre los cuerpos celestes</p>6
+    <script type="text/javascript">
+    var usuario = prompt("Cual es tu peso?")
+    var peso = parseInt(usuario);
+    var g_t = 9.8;
+    var g_m = 3.7;
+    var g_j = 24.8;
+    var peso_final;
+    peso_final = peso * g_m / g_t;
+    peso_final = parseInt(peso_final);
+    document.write("Tu peso en marte es <strong>" + peso_final + " kilos</strong>");
+    </script>
+</body>
+</html>
