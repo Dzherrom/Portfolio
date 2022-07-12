@@ -47,7 +47,7 @@ Enumeración:
 Password_generator: will generate random passwords using characters on preset lists
 
 
-Experience in Character design for emotes:
+Preview of previous work as designer:
 ![order 14-10-20](https://user-images.githubusercontent.com/45909037/178349034-2537d213-b4d5-4e9e-b808-b429880c648f.png)
 ![order 15-12-20(5)](https://user-images.githubusercontent.com/45909037/178349043-55092807-7993-4aaf-9f80-1c823f96009a.png)
 ![order 15-12-20(6)](https://user-images.githubusercontent.com/45909037/178349047-3e1b48b3-bb9f-4a55-b938-02b9228af940.png)
