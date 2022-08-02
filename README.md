@@ -42,8 +42,6 @@ Contador: will execute a while loop and count to the number given by the user.
 
 Diccionarios: will print the population of the countries stored in preset dictionaries 
 
-Enumeración: 
-
 Password_generator: will generate random passwords using characters on preset lists
 
 
